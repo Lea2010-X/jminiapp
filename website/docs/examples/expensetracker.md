@@ -10,7 +10,7 @@ A financial tracking application demonstrating **list management**, **data aggre
 *  JSON import/export
 *  Automatic list persistence
 
- **Source Code:** `examples/expensetracker`
+ **Source Code:** `[examples/expensetracker](https://github.com/Lea2010-X/jminiapp/tree/main/examples/expensetracker)`
 
 ---
 
